@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+    
+}
+.header{
+    height: 5rem;
+    width: 100%;
+    background-color: black;
+}
+.header h3{
+    font-size: 30px;
+    color: white;
+}
+.header h4{
+    font-size: 30px;
+    color: white;
+    text-align: right;
+    position: relative;
+    bottom: 40px;
+}
+.mymain{
+    width: 100%;
+    height: 45rem;
+    background-color:aliceblue;
+}
+.nav h3{
+    position:relative;
+    top: 20px;
+
+}
+.nav a{
+    font-size: 30px;
+    /* background-color: azure; */
+    display: inline-flex;
+    position: relative;
+    left: 65rem;
+    margin: 10px;
+    text-decoration: none;
+}
+.demo{
+    font-size: 90px;
+    color:blue;
+    
+}
+.demo p{
+font-size: 30px;
+    color: black;
+    width: 1000px;
+    
+}
+.demo button{
+    /* height: 20rem; */
+    /* border: 90px; */
+    background-color:darkred;
+    color: white;
+    font-size: 3rem;
+}
+.demo button:hover{
+    border: 90px;
+    /* background-color: blueviolet; */
+    color: aqua;
+    
+}
+ img{
+    height: 40rem;
+    /* display: flex; */
+    /* display: inline; */
+    position: relative;
+    left: 75rem;
+    bottom: 30rem;
+}
+.main{
+    height: 350px;
+    width:1000px;
+    /* background-color: beige; */
+    display: flex;
+    /* text-align: center; */
+    /* border: 100%; */
+    gap: 30px;
+    position: relative;
+    bottom: 37rem;
+    left: 20rem;
+}
+.class1{
+    background-color: white;
+    text-align: center;
+    font-size: 29px;
+    border: 2px solid black;
+    height: 250px;
+    width: 400px;
+    /* margin: 30px; */
+    
+}
+.class1 h1{
+    position: relative;
+    top: 50px;
+}
+.class1 span{
+    font-size: 8rem;
+}
+.class1:hover{
+    background-color: rgb(132, 184, 27);
+}
+.class2{
+    background-color: white;
+    text-align: center;
+    font-size: 29px;
+    height: 250px;
+    width: 400px;
+    border: 2px solid black;
+    /* height: 3rem; */
+    /* width: 2rem; */
+}
+.class2 h1{
+    position: relative;
+    top: 50px;
+}
+.class2:hover{
+    background-color: brown;
+}
+.class2 span{
+    font-size: 8rem;
+}
+.class3{
+    background-color: white;
+    text-align: center;
+    font-size: 29px;
+    height: 250px;
+    width: 400px;
+    border: 2px solid black;
+    /* height: 3rem; */
+    /* width: 2rem; */
+}
+.class3 h1{
+    position: relative;
+    top: 50px;
+}
+.class3:hover{
+    background-color:yellow;
+}
+.class3 span{
+    font-size: 8rem;
+}
+.demo1{
+    height: 1200px;
+}
+  .demo1 h1{
+    font-size: 50px;
+    position: relative;
+    top: 300px;
+    margin: 40px;
+  }
+  .demo1 p{
+    font-size: 30px;
+    position: relative;
+    top:280px ;
+    width: 700px;
+    margin: 30px;
+  }
+
+ 
